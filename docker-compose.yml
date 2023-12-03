@@ -1,0 +1,17 @@
+version: '4.25'
+services:
+  backend:
+    build:
+      context: /Users/rafael/Documents/GitHub/PUC-GCES-PY/src/parser
+      dockerfile: Dockerfile
+    ports:
+      - '8000:8000'
+    depends_on:
+      - mongodb
+  mongodb:
+    image: mongo
+    ports:
+      - '27017:27017'
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=lappis
+      - MONGO_INITDB_ROOT_PASSWORD=lappis
