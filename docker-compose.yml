@@ -2,14 +2,16 @@ version: '4.25'
 services:
   backend:
     build:
-      context: /Users/rafael/Documents/GitHub/PUC-GCES-PY/src/parser
+      context: /Users/rafael/Documents/GitHub/PUC-GCES-PY/Tp-GCS-Rafael-Augusto/src/parser
       dockerfile: Dockerfile
     ports:
       - '8000:8000'
     depends_on:
       - mongodb
   mongodb:
-    image: mongo
+    build:
+      context: /Users/rafael/Documents/GitHub/PUC-GCES-PY/Tp-GCS-Rafael-Augusto
+      dockerfile: Dockerfile
     ports:
       - '27017:27017'
     environment:
