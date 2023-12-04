@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['qapcommontests_0',['QAPCommonTests',['../classscipy_1_1optimize_1_1tests_1_1test__quadratic__assignment_1_1_q_a_p_common_tests.html',1,'scipy::optimize::tests::test_quadratic_assignment']]],
+  ['qmcengine_1',['QMCEngine',['../classscipy_1_1stats_1_1__qmc_1_1_q_m_c_engine.html',1,'scipy::stats::_qmc']]],
+  ['qmcenginetests_2',['QMCEngineTests',['../classscipy_1_1stats_1_1tests_1_1test__qmc_1_1_q_m_c_engine_tests.html',1,'scipy::stats::tests::test_qmc']]],
+  ['qrresult_3',['QRResult',['../classnumpy_1_1array__api_1_1linalg_1_1_q_r_result.html',1,'numpy::array_api::linalg']]],
+  ['qtpen_4',['QtPen',['../classfont_tools_1_1pens_1_1qt_pen_1_1_qt_pen.html',1,'fontTools::pens::qtPen']]],
+  ['quadcontourset_5',['QuadContourSet',['../classmatplotlib_1_1contour_1_1_quad_contour_set.html',1,'matplotlib::contour']]],
+  ['quadmesh_6',['QuadMesh',['../classmatplotlib_1_1collections_1_1_quad_mesh.html',1,'matplotlib::collections']]],
+  ['quadraticdiscriminantanalysis_7',['QuadraticDiscriminantAnalysis',['../classsklearn_1_1discriminant__analysis_1_1_quadratic_discriminant_analysis.html',1,'sklearn::discriminant_analysis']]],
+  ['quadtransform_8',['QuadTransform',['../class_p_i_l_1_1_image_transform_1_1_quad_transform.html',1,'PIL::ImageTransform']]],
+  ['quantilelossfunction_9',['QuantileLossFunction',['../classsklearn_1_1ensemble_1_1__gb__losses_1_1_quantile_loss_function.html',1,'sklearn::ensemble::_gb_losses']]],
+  ['quantileregressor_10',['QuantileRegressor',['../classsklearn_1_1linear__model_1_1__quantile_1_1_quantile_regressor.html',1,'sklearn::linear_model::_quantile']]],
+  ['quantiletransform_11',['quantiletransform',['../classaltair_1_1vega_1_1v5_1_1schema_1_1core_1_1quantile_transform.html',1,'altair.vega.v5.schema.core.quantileTransform'],['../classaltair_1_1vegalite_1_1v4_1_1schema_1_1core_1_1_quantile_transform.html',1,'altair.vegalite.v4.schema.core.QuantileTransform']]],
+  ['quantiletransformer_12',['QuantileTransformer',['../classsklearn_1_1preprocessing_1_1__data_1_1_quantile_transformer.html',1,'sklearn::preprocessing::_data']]],
+  ['quantity_13',['Quantity',['../classmatplotlib_1_1tests_1_1test__units_1_1_quantity.html',1,'matplotlib::tests::test_units']]],
+  ['quantitynd_14',['QuantityND',['../classmatplotlib_1_1tests_1_1test__image_1_1_quantity_n_d.html',1,'matplotlib::tests::test_image']]],
+  ['quantize_15',['Quantize',['../class_p_i_l_1_1_image_1_1_quantize.html',1,'PIL::Image']]],
+  ['quartzpen_16',['QuartzPen',['../classfont_tools_1_1pens_1_1quartz_pen_1_1_quartz_pen.html',1,'fontTools::pens::quartzPen']]],
+  ['queue_17',['Queue',['../classjoblib_1_1externals_1_1loky_1_1backend_1_1queues_1_1_queue.html',1,'joblib::externals::loky::backend::queues']]],
+  ['quiver_18',['Quiver',['../classmatplotlib_1_1quiver_1_1_quiver.html',1,'matplotlib::quiver']]],
+  ['quiverkey_19',['QuiverKey',['../classmatplotlib_1_1quiver_1_1_quiver_key.html',1,'matplotlib::quiver']]],
+  ['quotedstring_20',['quotedstring',['../classpip_1_1__vendor_1_1pyparsing_1_1core_1_1_quoted_string.html',1,'pip._vendor.pyparsing.core.QuotedString'],['../classpkg__resources_1_1__vendor_1_1pyparsing_1_1_quoted_string.html',1,'pkg_resources._vendor.pyparsing.QuotedString'],['../classpyparsing_1_1core_1_1_quoted_string.html',1,'pyparsing.core.QuotedString'],['../classsetuptools_1_1__vendor_1_1pyparsing_1_1_quoted_string.html',1,'setuptools._vendor.pyparsing.QuotedString']]]
+];
